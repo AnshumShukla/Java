@@ -45,7 +45,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/anshu/OneDrive/Documents/Java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.addarray">
+  <component name="RunManager" selected="Application.insurance">
     <configuration name="addarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="addarray" />
       <method v="2">
@@ -61,7 +61,6 @@
     </configuration>
     <configuration name="insurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="insurance" />
-      <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
