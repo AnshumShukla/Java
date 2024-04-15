@@ -26,9 +26,10 @@ public class  insurance {
 
         }
         else {
+            
             System.out.println("Enter right Maritial status");
         }
-
+        
 
     }
 
