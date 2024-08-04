@@ -7,7 +7,6 @@ public class countdigit {
         int number  = sc.nextInt();
         int temp = number ;
         int r =0 ;
-        // System.out.println(number);
         while (number > 0) {
             r = r * 0;
             r = number % 10;
