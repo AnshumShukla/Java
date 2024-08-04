@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ed5a8d-c27b-4d5b-a64d-461643b08326" name="Changes" comment="new file added">
+      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/countdigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/countdigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/countdigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insurance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuf1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/word.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,29 +45,40 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2OMLJvpsx9R0sm9th5ucVVbTsuA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/anshu/OneDrive/Documents/Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.JAVA.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/anshu/OneDrive/Documents/Java"
   }
-}</component>
-  <component name="RunManager" selected="Application.insurance">
-    <configuration name="addarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anshu\OneDrive\Documents\Java\out\production\Java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JAVA" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="addarray" />
+      <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="array" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array" />
       <module name="Java" />
       <method v="2">
@@ -83,8 +109,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.word" />
-        <item itemvalue="Application.array" />
-        <item itemvalue="Application.addarray" />
         <item itemvalue="Application.insurance" />
         <item itemvalue="Application.loop" />
       </list>

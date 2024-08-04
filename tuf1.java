@@ -16,6 +16,7 @@ public class tuf1{
              else{
                  System.out.println("-1");
              }
+             sc.close();
         }    
     }
     

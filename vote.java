@@ -13,7 +13,7 @@ public class vote {
         {
             System.out.println("Sorry , you are not eligible to vote");
         }
-
+in.close();
 
     }
 }
