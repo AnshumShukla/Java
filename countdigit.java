@@ -19,6 +19,7 @@ public class countdigit {
           number = number/10;        
         }
         System.out.println(count);
+        sc.close();
     }
     
 }
